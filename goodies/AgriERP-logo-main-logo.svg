@@ -1,3 +1,9 @@
+<!--
+  - @see       https://github.com/la51org/AgriERP for the canonical source repository
+  - @copyright Copyright (c) 2019-${year} fromthestone <md@lab51.org> , Authors and Contributors
+  - @license   https://github.com/la51org/AgriERP/LICENSE.md New BSD License
+  -->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
   <defs>
     <style>
