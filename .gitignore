@@ -5,6 +5,13 @@
 .DS_Store
 ./DS_Store
 
+# Configurazione
+.env
+
+# Framework e dipendenze
+/vendor/
+
 # Other
 .old
 .other
+
