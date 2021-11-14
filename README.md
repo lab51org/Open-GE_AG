@@ -1,6 +1,7 @@
 # AgriERP
 **AgriERP - ERP per la gestione agricola a norma italiana**
 
+![Logo AgriERP](.github/AgriERP-logo.png)
 ## Che cos'è questo progetto
 Questo progetto sperimentale (sperando possa avere il successo sperato) nasce con l'idea di
 di fornire un piccolo ERP per le aziende agricole che non possono permettersi costi esorbitanti 
@@ -48,7 +49,7 @@ di utilizzo ed uno sviluppo ulteriore su GitHUB.
 Come obbiettivo di miglioramento, aldilà di un aspetto grafico e di migliore usabilità,
 si vuole modernizzare il ciclo di lavoro portandolo sullo stile DevOps un pò più standard ed un pò meno all'italiana...
 
-![img.png](.github/devops.png)
+![DevOps](.github/devops.png)
 
 Altre migliorie:
 * Sviluppo e repo su GitHUB
@@ -69,4 +70,5 @@ Quindi mi appello alla filosofia dell'opensource per cercare:
 * Volontari con conoscenze economiche/fiscali/tributarie (siamo in Italia e solo voi ci potete salvare)
 * Volontari con conoscenza agronomiche e/o normative su agricoltura e allevamento
 
-
+## Licenza
+AgriERP è distribuito sotto licenza GPL-3.0 e la documentazione sotto licenza Creative Commons (CC-BY-SA)
