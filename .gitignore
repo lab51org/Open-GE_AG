@@ -1,17 +1,33 @@
-# Jetbrains
+# editors
+/.idea
+/.vscode
 .idea/
-
 #MacOS
 .DS_Store
 ./DS_Store
 
 # Configurazione
 .env
+.env.backup
 
 # Framework e dipendenze
 /vendor/
 
+# Node, NPM and Yarn
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Laravel
+/public/hot
+/public/storage
+/storage/*.key
+Homestead.json
+Homestead.yaml
+
 # Other
-.old
 .other
+.phpunit.result.cache
+docker-compose.override.yml
+
 
