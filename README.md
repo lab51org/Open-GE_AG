@@ -1,14 +1,15 @@
-# AgriERP
-**AgriERP - ERP per la gestione agricola a norma italiana**
+# Open GE.AG.
+**Open GE.AG. - Gestionale per l'azienda agricola a norma, semplice e gratuito**
 
-![Logo AgriERP](.github/AgriERP-logo.png)
+![Logo GE.AG.](.github/geag-logo-main.png)
+
 ## Che cos'è questo progetto
 Questo progetto sperimentale (sperando possa avere il successo sperato) nasce con l'idea di
 di fornire un piccolo ERP per le aziende agricole che non possono permettersi costi esorbitanti 
 di software ma al contempo vogliono avere una gestione centralizzata delle informazioni senza
 dover ricorrere a fogli di Excel o DB e maschere in Access.
 
-Nasce come fork da Gazie, uno dei pochi ERP opensource che segue la legislazione italiana
+Nasce come fork di Gazie, uno dei pochi ERP opensource che segue la legislazione italiana
 , spartano, semplice e soprattutto maturo.
 
 Gazie è un lavoro portato avanti da anni da Antonio de Vincentiis e tanti altri contributori
@@ -71,4 +72,4 @@ Quindi mi appello alla filosofia dell'opensource per cercare:
 * Volontari con conoscenza agronomiche e/o normative su agricoltura e allevamento
 
 ## Licenza
-AgriERP è distribuito sotto licenza GPL-3.0 e la documentazione sotto licenza Creative Commons (CC-BY-SA)
+Open GE.AG. è distribuito sotto licenza GPL-3.0 e la documentazione sotto licenza Creative Commons (CC-BY-SA)
