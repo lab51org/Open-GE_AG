@@ -26,8 +26,13 @@ Homestead.json
 Homestead.yaml
 
 # Other
+.sqlite
 .other
 .phpunit.result.cache
 docker-compose.override.yml
 
 
+/project/db/.dbeaver/credentials-config.json
+/project/db/.project
+/project/db/.dbeaver/data-sources.json
+/test.sqlite
